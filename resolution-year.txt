@@ -1,0 +1,4 @@
+Resolusi tahun ini
+- Membuat game dengan C++
+- Mendapat IP 4 di semester ini
+- Membuat website pribadi sebagai dasar keterampilan web programming
