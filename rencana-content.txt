@@ -1,0 +1,5 @@
+RENCANA KONTEN SAYA
+
+- Game Parody dari Impostor di C++
+- Video kompilasi pembuatan game
+- Game sederhana untuk android
